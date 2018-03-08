@@ -3,3 +3,10 @@ description: Architect is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+github:
+  repository_name: page
+  project_tagline: stuff
+  repository_url: https://github.com/rossvt/page
+  owner_url: https://github.com/rossvt/
+  zip_url: https://github.com/rossvt/page/archive/gh-pages.zip
+  
